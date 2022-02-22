@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="fever">Fever</string>
+    <string name="cough">Cough</string>
+    <string name="runny_nose">Runny Nose</string>
+    <string name="scratchy_throat">Scratchy Throat</string>
+    <string name="body_pain">Body and Head ache</string>
+    <string name="tierdness">Tierdness</string>
+</resources>
